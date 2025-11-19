@@ -24,7 +24,9 @@ frontend-tiendatec-lg/
 
 ├── css/
 
-│ └── estilos.css # Estilos globales
+│ └── normalize.css # Base de estilos consistente entre navegadores
+
+│ └── style.css # Estilos globales
 
 ├── img/ # Imágenes del sitio
 
@@ -32,9 +34,9 @@ frontend-tiendatec-lg/
 
 ├── index.html # Página principal
 
-├── producto.html # Detalle del producto
+├── nosotros.html # Información de la tienda
 
-└── nosotros.html # Información de la tienda
+└── producto.html # Detalle del producto
 
 ---
 
