@@ -40,7 +40,7 @@ frontend-tiendatec-lg/
 
 ---
 
-Buenas prácticas aplicadas
+## Buenas prácticas aplicadas
 
 • HTML semántico para mejor estructura y accesibilidad.
 
