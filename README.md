@@ -21,12 +21,19 @@ https://frontend-tiendatec-lg.netlify.app
 ## Estructura del proyecto
 
 frontend-tiendatec-lg/
+
 ├── css/
+
 │ └── estilos.css # Estilos globales
+
 ├── img/ # Imágenes del sitio
+
 │ └── ...
+
 ├── index.html # Página principal
+
 ├── producto.html # Detalle del producto
+
 └── nosotros.html # Información de la tienda
 
 ---
